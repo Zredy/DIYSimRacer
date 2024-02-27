@@ -1,5 +1,5 @@
 # DIYSimRacer
 Arduino FFB Wheel project
 
-Based on AFFBWheel by vsulako (https://github.com/vsulako/AFFBWheel) - probably subject to change
+Based on Arduino Joystick with FFB
 Using SimpleFOC (https://simplefoc.com/)
